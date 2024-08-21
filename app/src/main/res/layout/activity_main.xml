@@ -36,43 +36,43 @@
                 android:layout_gravity="center"
                 android:id="@+id/search_view"/>
 
-            <Button
+            <androidx.appcompat.widget.AppCompatButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn_1"
                 android:layout_margin="6dp"
                 android:text="GENERAL"/>
-            <Button
+            <androidx.appcompat.widget.AppCompatButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn_2"
                 android:layout_margin="6dp"
                 android:text="BUSINESS"/>
-            <Button
+            <androidx.appcompat.widget.AppCompatButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn_3"
                 android:layout_margin="6dp"
                 android:text="SPORTS"/>
-            <Button
+            <androidx.appcompat.widget.AppCompatButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn_4"
                 android:layout_margin="6dp"
                 android:text="TECHNOLOGY"/>
-            <Button
+            <androidx.appcompat.widget.AppCompatButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn_5"
                 android:layout_margin="6dp"
                 android:text="HEALTH"/>
-            <Button
+            <androidx.appcompat.widget.AppCompatButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn_6"
                 android:layout_margin="6dp"
                 android:text="ENTERTAINMENT"/>
-            <Button
+            <androidx.appcompat.widget.AppCompatButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn_7"
